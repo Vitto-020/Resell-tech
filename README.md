@@ -1,2 +1,2 @@
 # Resell-tech
-Vendita 
+
